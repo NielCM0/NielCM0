@@ -1,6 +1,6 @@
 # Daniel Cajas
 
-**Systems Engineer & Cybersecurity **  
+**Systems Engineer & Cybersecurity**  
 **Security | Linux | Backend Architecture | Programmer**
 
 📍 Rosario, Santa Fe, Argentina  
