@@ -13,7 +13,7 @@
 
 I am a **Systems Engineer** from Cerro de Pasco, Perú.
 
-I currently work at the **Honorable Provincial Municipality of Pasco** in Peru, where I specialize in networking, backend and frontend engineering, cloud security, regulatory compliance, and security architecture. My work involves integrating **SOC 2 controls**, **ISO/IEC 27001 practices**, AWS security policies, and secure network design and architecture decisions within the company's infrastructure and product ecosystem.
+I currently work at the **Honorable Municipalidad Provincial de Pasco** in Peru, where I specialize in networking, backend and frontend engineering, cloud security, regulatory compliance, and security architecture. My work involves integrating **SOC 2 controls**, **ISO/IEC 27001 practices**, AWS security policies, and secure network design and architecture decisions within the company's infrastructure and product ecosystem.
 
 ---
 
