@@ -3,7 +3,7 @@
 **Systems Engineer & Cybersecurity**  
 **Security | Linux | Backend Architecture | Programmer**
 
-📍 Rosario, Santa Fe, Argentina  
+📍 Cerro de Pasco, Pasco, Perú  
 👤 [LinkedIn](https://linkedin.com/in/daniel-williams-cajas-monago-32b1b0153)  
 ✉️ ledani_6@hotmail.com
 
@@ -55,59 +55,24 @@ Core technology areas:
 
 ## 🏢 Professional Experience
 
-### Cybersecurity Engineer & Backend Engineer  
-**Teramot**  
-*Nov. 2025 - Present · Rosario, Argentina*
+### Especialista en Soporte Tecnico en Redes  
+**Honorable Municipalidad Provincial de Pasco**  
+*Enero. 2023 - Present · Cerro de Pasco, Perú*
 
-At Teramot, an AI startup, I work on the intersection of cybersecurity, backend engineering, cloud security, compliance and security architecture. My work connects infrastructure security, backend design and product-level technical decisions for AI-driven systems.
 
 Main responsibilities:
 
-- Lead cybersecurity, compliance and security architecture initiatives
-- Design secure backend and infrastructure architecture for AI-related product workflows
-- Implement SOC 2 controls across cloud infrastructure and product workflows
-- Design secure integrations for AI agents
-- Build backend platforms and internal tools
 - Automate compliance and security workflows
 - Manage cloud security policies
 - Participate in audits, architecture reviews and technical product decisions
-- Develop secure backend systems in Go
+- technical support
 
-Main project:
 
-- **Aleph**: backend platform written in Go that enables secure and scalable access to Teramot's AI capabilities and sensitive business data, with emphasis on secure architecture, access control and integration reliability.
+### Soporte Tecnico 
+**KERNEL**  
+*Marzo. 2022 - Nov. 2022 · Cero de Pasco, Perú*
 
----
-
-### Cybersecurity & Compliance Analyst  
-**Teramot**  
-*Jun. 2025 - Nov. 2025 · Rosario, Argentina*
-
-- Structured cybersecurity processes for an AI startup
-- Worked on ISO 27001 and SOC 2 readiness
-- Protected AWS cloud servers, databases, critical files and exposed API endpoints
-- Automated compliance and monitoring workflows
-- Supported internal audits and security decisions
-
----
-
-### Cybersecurity Analyst  
-**Consulting IT**  
-*Aug. 2024 - Jul. 2025 · Remote*
-
-- Developed cybersecurity strategies for outsourcing clients
-- Worked with Sophos, Avast, firewalls and SOC tools
-- Implemented security controls across networks and cloud environments
-- Supported endpoint protection, incident response and monitoring
-- Participated in secure infrastructure and cloud configuration projects
-
----
-
-### Teaching Assistant  
-**Universidad Abierta Interamericana**  
-*Sep. 2024 - Jun. 2025 · Rosario, Argentina*
-
-Teaching assistant in computer architecture and systems-related subjects.
+- technical support
 
 ---
 
@@ -115,11 +80,9 @@ Teaching assistant in computer architecture and systems-related subjects.
 
 Highlighted certifications:
 
-- **AWS Certified Cloud Practitioner**
-- **LFCA: Linux Foundation Certified IT Associate**
 - **CompTIA Security+ ce**
-- **Huawei Data Communication and Network Technology**
-- **HCIA Datacom Preparation**
+- **Diplomado en Gesstion Publica**
+
 
 Additional certifications and training:
 
@@ -132,11 +95,8 @@ Additional certifications and training:
 
 ## 📌 Featured Projects
 
-### Aleph  
-Backend platform developed in Go for secure and scalable interaction with Teramot's AI capabilities, with focus on secure architecture, access control and reliable integrations.
-
-### VT Security  
-Educational cybersecurity and technology content platform focused on practical learning, Linux, cloud, networking and cybersecurity careers.
+### Theandeaber 
+video game development
 
 ---
 
@@ -227,29 +187,6 @@ Main areas:
 
 ---
 
-## 🎥 VT Security
-
-**VT Security** is my main personal project and technical education platform.
-
-Through the channel, I create content about:
-
-- Cybersecurity
-- Linux
-- Networking
-- Cloud computing
-- AWS
-- Backend engineering
-- Software architecture
-- Ethical hacking
-- Operating systems
-- Career development in technology
-
-The goal of VT Security is to explain complex technical topics without unnecessary hype, showing the real learning process behind cybersecurity, infrastructure and software engineering.
-
-I focus on practical content, honest experiences and technical depth, especially for people who are starting in IT, cybersecurity or software development and want to understand how things work beyond tutorials and theory.
-
----
-
 ## 🎓 Education
 
 ### Systems Engineering  
@@ -264,12 +201,7 @@ I focus on practical content, honest experiences and technical depth, especially
 
 ## 🏆 Awards & Research
 
-- Distinguished Speaker in Information Security - **CACIC 2024**
-- Best Presentation - **Argentine Symposium on Cybersecurity and Cyberdefense, JAIIO 2024**
-- Author of “Analysis and Development of Reverse Shell Tools for Penetration Testing”
-- Author of “Botnets: State of the Art and Taxonomy of a Stealthy Threat”
-- Author of “Dockerization of SCADA Servers: Industrial Cybersecurity”
-- Research participant in cybersecurity, infrastructure and industrial systems security
+- Decimo superior en la Universidad
 
 ---
 
@@ -284,6 +216,5 @@ I am open to collaborating on:
 - Linux and infrastructure content
 - Software architecture
 - Educational initiatives
-- YouTube collaborations and technical content
 
-Feel free to connect with me through LinkedIn, GitHub or YouTube.
+Feel free to connect with me through LinkedIn or GitHub
